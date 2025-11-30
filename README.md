@@ -1,6 +1,6 @@
 # 🛒 E-Commerce REST API (Node.js, Express, PostgreSQL)
 
-A production-ready E-Commerce backend API featuring JWT authentication, Cloudinary image upload, product filters, shopping cart with persistent pricing, Swagger documentation, and automated testing.
+A production-ready E-Commerce backend API featuring JWT authentication, Cloudinary image upload, product filters, shopping cart with persistent pricing.
 
 ---
 
